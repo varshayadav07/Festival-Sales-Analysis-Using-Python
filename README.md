@@ -1,4 +1,4 @@
-# Festival-Sales-Analysis
+# Festival Sales Analysis Using Python
 - Conducted data cleaning and manipulation.
 - Carried out exploratory data analysis (EDA) using Pandas, Matplotlib, and Seaborn libraries.
 - Enhanced customer experience by identifying potential customers across various states, occupations, genders, and age groups.
